@@ -1,5 +1,5 @@
 # membuat-nama
-Repository ini berisi cara membuat nama menggunakan bahasa java 
+Repository ini berisi cara membuat nama menggunakan berbagai bahasa pemrograman
 
 # Instruksi
 Jalankan kode yang ada di Repository ini dan lihat hasilnya
